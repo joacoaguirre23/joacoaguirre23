@@ -113,34 +113,3 @@ Principios de desarrollo que sigo:
     Revisiones de código sistemáticas
 
     CI/CD automatizado
-
-Educación
-
-Duoc UC - Ingeniería en Informática
-Enfoque en desarrollo de software y arquitectura de sistemas
-
-Sociología - Análisis de sistemas complejos
-Aplicación de metodologías de investigación a problemas técnicos
-Contacto
-
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-
-"La tecnología efectiva requiere comprender tanto el sistema como el contexto humano en el que opera."
-text
-
-
-**Para que funcione correctamente:**
-1. **Cambia `joacoaguirre23`** por tu nombre de usuario real de GitHub en las tres URLs de estadísticas
-2. **Actualiza el enlace de LinkedIn** con tu perfil real
-3. **Cambia el email** en la sección de contacto
-
-**Características de este README:**
-- Estadísticas de GitHub funcionando con gráficos reales
-- Diseño profesional y técnico
-- Muestra todas tus habilidades mencionadas
-- Organización clara por categorías
-- Incluye tu background único (sociología + programación)
-- Sin emojis, tono profesional
-- Secciones de proyectos y metodología que demuestran experiencia real
